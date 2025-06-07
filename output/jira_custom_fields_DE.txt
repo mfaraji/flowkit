@@ -1,0 +1,4449 @@
+Jira Custom Fields Report
+==================================================
+
+Generated on: 2025-06-06 20:42:40
+Jira URL: https://junipersquare.atlassian.net
+Username: moe@junipersquare.com
+Project: DE
+Total Custom Fields: 272
+
+CUSTOM FIELDS DETAILS
+==============================
+
+Custom Field 1:
+  ID: customfield_11710
+  Name: Reporting Cadence
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11710], Reporting Cadence, Reporting Cadence[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 2:
+  ID: customfield_11708
+  Name: Fund Admin Id
+  Type: number
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11708], Fund Admin Id, Fund Admin Id[Number]
+  Schema Type: number
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 3:
+  ID: customfield_11707
+  Name: JSQ Customer Id
+  Type: number
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11707], JSQ Customer Id, JSQ Customer Id[Number]
+  Schema Type: number
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 4:
+  ID: customfield_11709
+  Name: SLA
+  Type: number
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11709], SLA, SLA[Number]
+  Schema Type: number
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 5:
+  ID: customfield_11933
+  Name: Plan
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11933], Plan, Plan[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 6:
+  ID: customfield_11932
+  Name: Analysis
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Analysis, Analysis[Paragraph], cf[11932]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 7:
+  ID: customfield_11935
+  Name: Policy objectives
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11935], Policy objectives, Policy objectives[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 8:
+  ID: customfield_11934
+  Name: Pipeline Environment(s)
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11934], Pipeline Environment(s), Pipeline Environment(s)[Labels]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: string
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 9:
+  ID: customfield_11937
+  Name: Metadata Type
+  Type: option-with-child
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11937], Metadata Type, Metadata Type[Select List (cascading)]
+  Schema Type: option-with-child
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 10:
+  ID: customfield_11936
+  Name: External Key
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11936], External Key, External Key[Short text]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 11:
+  ID: customfield_11911
+  Name: Departments
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11911], Departments, Departments[Select List (multiple choices)]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: option
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 12:
+  ID: customfield_11914
+  Name: Sub Doc Source
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11914], Sub Doc Source, Sub Doc Source[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 13:
+  ID: customfield_13072
+  Name: GitHub Access Required?
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13072], GitHub Access Required?, GitHub Access Required?[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 14:
+  ID: customfield_13071
+  Name: If Yes, What Repositories?
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13071], If Yes, What Repositories?, If Yes, What Repositories?[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 15:
+  ID: customfield_11551
+  Name: Number of Positions
+  Type: number
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11551], Number of Positions, Number of Positions[Number]
+  Schema Type: number
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 16:
+  ID: customfield_11550
+  Name: Reduced Commitment Enabled
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11550], Reduced Commitment Enabled, Reduced Commitment Enabled[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 17:
+  ID: customfield_11546
+  Name: Expected Result
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11546], Expected Result, Expected Result[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 18:
+  ID: customfield_11545
+  Name: Steps to Reproduce
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11545], Steps to Reproduce, Steps to Reproduce[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 19:
+  ID: customfield_11548
+  Name: Commitment Date
+  Type: date
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11548], Commitment Date, Commitment Date[Date]
+  Schema Type: date
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 20:
+  ID: customfield_11547
+  Name: Actual Result
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Actual Result, Actual Result[Paragraph], cf[11547]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 21:
+  ID: customfield_11549
+  Name: Multiple Investor Groups
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11549], Multiple Investor Groups, Multiple Investor Groups[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 22:
+  ID: customfield_11540
+  Name: Investor Services Team
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11540], Investor Services Team, Investor Services Team[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 23:
+  ID: customfield_11543
+  Name: MoSCoW Priority
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11543], MoSCoW Priority, MoSCoW Priority[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 24:
+  ID: customfield_10203
+  Name: Incident Manager
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10203], Incident Manager, Incident Manager[User Picker (single user)]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 25:
+  ID: customfield_10204
+  Name: Technician
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10204], Technician, Technician[User Picker (single user)]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 26:
+  ID: customfield_10205
+  Name: Data Classification
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10205], Data Classification, Data Classification[Select List (multiple choices)]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: option
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 27:
+  ID: customfield_10206
+  Name: Security Incident Type
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10206], Security Incident Type, Security Incident Type[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 28:
+  ID: customfield_11536
+  Name: AML/KYC Program
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: AML/KYC Program, AML/KYC Program[Dropdown], cf[11536]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 29:
+  ID: customfield_11539
+  Name: RevOps Category
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11539], RevOps Category, RevOps Category[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 30:
+  ID: customfield_11771
+  Name: Activity Name - Capital Events
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Activity Name - Capital Events, Activity Name - Capital Events[Dropdown], cf[11771]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 31:
+  ID: customfield_10200
+  Name: Roadmap
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10200], Roadmap, Roadmap[Checkboxes]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: option
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 32:
+  ID: customfield_11772
+  Name: Product SKU
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11772], Product SKU, Product SKU[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 33:
+  ID: customfield_11532
+  Name: Peer Reviewer
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11532], Peer Reviewer, Peer Reviewer[User Picker (single user)]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 34:
+  ID: customfield_11526
+  Name: Entity Name
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11526], Entity Name, Entity Name[Short text]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 35:
+  ID: customfield_11528
+  Name: Box Folder Link
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Box Folder Link, Box Folder Link[URL Field], cf[11528]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 36:
+  ID: customfield_11996
+  Name: Scoping Role
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11996], Scoping Role, Scoping Role[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 37:
+  ID: customfield_11993
+  Name: ROI (Hours)
+  Type: number
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11993], ROI (Hours), ROI (Hours)[Number]
+  Schema Type: number
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 38:
+  ID: customfield_11992
+  Name: Value Proposition
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11992], Value Proposition, Value Proposition[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 39:
+  ID: customfield_12600
+  Name: Delivery status
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12600], Delivery status
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 40:
+  ID: customfield_11501
+  Name: Release Notes
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11501], Release Notes, Release Notes[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 41:
+  ID: customfield_11503
+  Name: GA date
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11503], GA date, GA date[Labels]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: string
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 42:
+  ID: customfield_11500
+  Name: Manual Deployment Steps
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11500], Manual Deployment Steps, Manual Deployment Steps[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 43:
+  ID: customfield_12370
+  Name: Scheduled Finish
+  Type: datetime
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12370], Scheduled Finish, Scheduled Finish[Time stamp]
+  Schema Type: datetime
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 44:
+  ID: customfield_12372
+  Name: Reason for Change
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12372], Reason for Change, Reason for Change[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 45:
+  ID: customfield_12371
+  Name: Customer Impacted
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12371], Customer Impacted, Customer Impacted[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 46:
+  ID: customfield_12374
+  Name: Customer Notification Required
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12374], Customer Notification Required, Customer Notification Required[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 47:
+  ID: customfield_10197
+  Name: Customers
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10197], Customers, Customers[Labels]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: string
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 48:
+  ID: customfield_12376
+  Name: Scheduled Start
+  Type: datetime
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12376], Scheduled Start, Scheduled Start[Time stamp]
+  Schema Type: datetime
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 49:
+  ID: customfield_12375
+  Name: Customer Impact Details
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12375], Customer Impact Details, Customer Impact Details[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 50:
+  ID: customfield_12378
+  Name: Implementation Plan
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12378], Implementation Plan, Implementation Plan[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 51:
+  ID: customfield_12379
+  Name: Risk of Change
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12379], Risk of Change, Risk of Change[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 52:
+  ID: customfield_11271
+  Name: Manager Approved?
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11271], Manager Approved?, Manager Approved?[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 53:
+  ID: customfield_12360
+  Name: Service Dependencies/Integration testing results
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12360], Service Dependencies/Integration testing results, Service Dependencies/Integration testing results[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 54:
+  ID: customfield_12363
+  Name: Release Note
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12363], Release Note, Release Note[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 55:
+  ID: customfield_12362
+  Name: Verification Plan/Change resulted in expected outcome
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12362], Verification Plan/Change resulted in expected outcome, Verification Plan/Change resulted in expected outcome[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 56:
+  ID: customfield_12364
+  Name: Monitoring/Logging/Alerting Tools
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12364], Monitoring/Logging/Alerting Tools, Monitoring/Logging/Alerting Tools[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 57:
+  ID: customfield_12367
+  Name: Waiting for Reporter Counter
+  Type: number
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12367], Waiting for Reporter Counter, Waiting for Reporter Counter[Number]
+  Schema Type: number
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 58:
+  ID: customfield_12366
+  Name: Region
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12366], Region, Region[Select List (multiple choices)]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: option
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 59:
+  ID: customfield_12369
+  Name: Post Change Validation / Testing Procedures
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12369], Post Change Validation / Testing Procedures, Post Change Validation / Testing Procedures[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 60:
+  ID: customfield_12592
+  Name: Idea archived by
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12592], Idea archived by, Idea archived by[People]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: user
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 61:
+  ID: customfield_12591
+  Name: Idea archived
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12591], Idea archived, Idea archived[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 62:
+  ID: customfield_12594
+  Name: Atlassian project
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Atlassian project, cf[12594]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 63:
+  ID: customfield_11262
+  Name: Travel Start Date
+  Type: date
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11262], Travel Start Date, Travel Start Date[Date]
+  Schema Type: date
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 64:
+  ID: customfield_12593
+  Name: Idea archived on
+  Type: datetime
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12593], Idea archived on, Idea archived on[Time stamp]
+  Schema Type: datetime
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 65:
+  ID: customfield_11263
+  Name: Travel End Date
+  Type: date
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11263], Travel End Date, Travel End Date[Date]
+  Schema Type: date
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 66:
+  ID: customfield_12596
+  Name: Insights
+  Type: number
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12596], Insights
+  Schema Type: number
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 67:
+  ID: customfield_11264
+  Name: Country Traveling To
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11264], Country Traveling To, Country Traveling To[Short text]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 68:
+  ID: customfield_12595
+  Name: Atlassian project status
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Atlassian project status, cf[12595]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 69:
+  ID: customfield_11265
+  Name: Direct Manager Name
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11265], Direct Manager Name, Direct Manager Name[User Picker (single user)]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 70:
+  ID: customfield_12598
+  Name: Linked issues
+  Type: number
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12598], Linked issues
+  Schema Type: number
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 71:
+  ID: customfield_12597
+  Name: Comments
+  Type: number
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12597], Comments
+  Schema Type: number
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 72:
+  ID: customfield_12599
+  Name: Delivery progress
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12599], Delivery progress
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 73:
+  ID: customfield_11492
+  Name: Project Manager
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11492], Project Manager, Project Manager[User Picker (single user)]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 74:
+  ID: customfield_11491
+  Name: Status Headline
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11491], Status Headline, Status Headline[Short text]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 75:
+  ID: customfield_11494
+  Name: Business Lead
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Business Lead, Business Lead[User Picker (single user)], cf[11494]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 76:
+  ID: customfield_11493
+  Name: Technical Lead
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11493], Technical Lead, Technical Lead[User Picker (single user)]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 77:
+  ID: customfield_11496
+  Name: Testers
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11496], Testers, Testers[User Picker (multiple users)]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: user
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 78:
+  ID: customfield_11495
+  Name: Executive Sponsor
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11495], Executive Sponsor, Executive Sponsor[User Picker (single user)]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 79:
+  ID: customfield_11498
+  Name: Timeline Target
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11498], Timeline Target, Timeline Target[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 80:
+  ID: customfield_11497
+  Name: Key Stakeholders
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11497], Key Stakeholders, Key Stakeholders[User Picker (multiple users)]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: user
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 81:
+  ID: customfield_11499
+  Name: Original Requirements
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11499], Original Requirements, Original Requirements[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 82:
+  ID: customfield_12327
+  Name: Blocked Reason
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Blocked Reason, Blocked Reason[Dropdown], cf[12327]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 83:
+  ID: customfield_12328
+  Name: Blocked Reason Description
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Blocked Reason Description, Blocked Reason Description[Paragraph], cf[12328]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 84:
+  ID: customfield_10145
+  Name: BizOps Function
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: BizOps Function, BizOps Function[Dropdown], cf[10145]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 85:
+  ID: customfield_10126
+  Name: Investment Type
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10126], Investment Type, Investment Type[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 86:
+  ID: customfield_10120
+  Name: Category
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Category[Category], cf[10120]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 87:
+  ID: customfield_11447
+  Name: Checklist Template
+  Type: option2
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11447], Checklist Template
+  Schema Type: option2
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 88:
+  ID: customfield_10115
+  Name: Submitted forms
+  Type: number
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10115], Submitted forms
+  Schema Type: number
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 89:
+  ID: customfield_10116
+  Name: Locked forms
+  Type: number
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10116], Locked forms
+  Schema Type: number
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 90:
+  ID: customfield_11446
+  Name: Checklist Progress %
+  Type: number
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11446], Checklist Progress %
+  Schema Type: number
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 91:
+  ID: customfield_10117
+  Name: Total forms
+  Type: number
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10117], Total forms
+  Schema Type: number
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 92:
+  ID: customfield_11448
+  Name: Checklist Text (view-only)
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11448], Checklist Text (view-only)
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 93:
+  ID: customfield_13061
+  Name: Network Integration Points
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13061], Network Integration Points, Network Integration Points[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 94:
+  ID: customfield_13060
+  Name: Data Stored or Processed
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13060], Data Stored or Processed, Data Stored or Processed[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 95:
+  ID: customfield_13063
+  Name: Encryption in Transit/At Rest
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13063], Encryption in Transit/At Rest, Encryption in Transit/At Rest[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 96:
+  ID: customfield_13062
+  Name: Access Method
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Access Method, Access Method[Paragraph], cf[13062]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 97:
+  ID: customfield_13065
+  Name: SSO/2FA Supported
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13065], SSO/2FA Supported, SSO/2FA Supported[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 98:
+  ID: customfield_13064
+  Name: Authentication Method
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Authentication Method, Authentication Method[Paragraph], cf[13064]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 99:
+  ID: customfield_13067
+  Name: AWS Access Required?
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: AWS Access Required?, AWS Access Required?[Dropdown], cf[13067]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 100:
+  ID: customfield_13066
+  Name: Offboarding Process
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13066], Offboarding Process, Offboarding Process[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 101:
+  ID: customfield_13069
+  Name: What AWS Resources Will Be Accessed?
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13069], What AWS Resources Will Be Accessed?, What AWS Resources Will Be Accessed?[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 102:
+  ID: customfield_13068
+  Name: If Yes, What AWS Account/Environment?
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13068], If Yes, What AWS Account/Environment?, If Yes, What AWS Account/Environment?[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 103:
+  ID: customfield_13054
+  Name: Requester Name
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13054], Requester Name, Requester Name[User Picker (single user)]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 104:
+  ID: customfield_13053
+  Name: Team Requesting
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13053], Team Requesting, Team Requesting[Short text]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 105:
+  ID: customfield_13056
+  Name: Review Status
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13056], Review Status, Review Status[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 106:
+  ID: customfield_13055
+  Name: Security Reviewer(s)
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13055], Security Reviewer(s), Security Reviewer(s)[User Picker (single user)]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 107:
+  ID: customfield_13058
+  Name: Tool/Platform Description
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13058], Tool/Platform Description, Tool/Platform Description[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 108:
+  ID: customfield_13057
+  Name: Purpose of Integration / Tool
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13057], Purpose of Integration / Tool, Purpose of Integration / Tool[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 109:
+  ID: customfield_13059
+  Name: Data Types Involved
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13059], Data Types Involved, Data Types Involved[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 110:
+  ID: customfield_12195
+  Name: Technical Notes
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12195], Technical Notes, Technical Notes[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 111:
+  ID: customfield_13038
+  Name: Due date for contribution reconciliation
+  Type: date
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13038], Due date for contribution reconciliation, Due date for contribution reconciliation[Date]
+  Schema Type: date
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 112:
+  ID: customfield_12391
+  Name: External Reference
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12391], External Reference, External Reference[Short text]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 113:
+  ID: customfield_13482
+  Name: Time to done
+  Type: sd-servicelevelagreement
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13482], Time to done
+  Schema Type: sd-servicelevelagreement
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 114:
+  ID: customfield_12395
+  Name: Rollback Plan
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12395], Rollback Plan, Rollback Plan[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 115:
+  ID: customfield_12397
+  Name: Run Pipeline Automation?
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12397], Run Pipeline Automation?, Run Pipeline Automation?[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 116:
+  ID: customfield_12381
+  Name: Business Unit
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Business Unit, Business Unit[Select List (multiple choices)], cf[12381]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: option
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 117:
+  ID: customfield_12380
+  Name: Notification Plan
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12380], Notification Plan, Notification Plan[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 118:
+  ID: customfield_12383
+  Name: Template Approved
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12383], Template Approved, Template Approved[Short text]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 119:
+  ID: customfield_12384
+  Name: Scope of Change
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12384], Scope of Change, Scope of Change[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 120:
+  ID: customfield_12388
+  Name: Cloud Customer Name
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12388], Cloud Customer Name, Cloud Customer Name[Select List (multiple choices)]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: option
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 121:
+  ID: customfield_11831
+  Name: Canopy ID
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Canopy ID, Canopy ID[Short text], cf[11831]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 122:
+  ID: customfield_11830
+  Name: Notify FAO for Positions
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11830], Notify FAO for Positions, Notify FAO for Positions[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 123:
+  ID: customfield_11822
+  Name: # Child Issues
+  Type: number
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: # Child Issues, # Child Issues[Number], cf[11822]
+  Schema Type: number
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 124:
+  ID: customfield_11810
+  Name: Schedule Risk
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11810], Schedule Risk, Schedule Risk[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 125:
+  ID: customfield_11812
+  Name: Weekly Update
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11812], Weekly Update, Weekly Update[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 126:
+  ID: customfield_11811
+  Name: JFA / JAD Status
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11811], JFA / JAD Status, JFA / JAD Status[Checkboxes]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: option
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 127:
+  ID: customfield_11817
+  Name: Activity Name - Subscriptions
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Activity Name - Subscriptions, Activity Name - Subscriptions[Dropdown], cf[11817]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 128:
+  ID: customfield_11809
+  Name: Initiative stage
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11809], Initiative stage, Initiative stage[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 129:
+  ID: customfield_11680
+  Name: India - Preparer
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11680], India - Preparer, India - Preparer[User Picker (multiple users)]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: user
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 130:
+  ID: customfield_11683
+  Name: NA - Preparer
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11683], NA - Preparer, NA - Preparer[User Picker (multiple users)]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: user
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 131:
+  ID: customfield_11445
+  Name: Checklist Progress
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11445], Checklist Progress
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 132:
+  ID: customfield_10114
+  Name: Open forms
+  Type: number
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10114], Open forms
+  Schema Type: number
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 133:
+  ID: customfield_11678
+  Name: Goals
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11678], Goals, Goals[Goals]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: Goals
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 134:
+  ID: customfield_12525
+  Name: Blocked Date
+  Type: date
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Blocked Date, Blocked Date[Date], cf[12525]
+  Schema Type: date
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 135:
+  ID: customfield_11670
+  Name: Investor Risk Rating
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11670], Investor Risk Rating, Investor Risk Rating[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 136:
+  ID: customfield_11676
+  Name: External Comments
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11676], External Comments, External Comments[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 137:
+  ID: customfield_10103
+  Name: Client Department/Group
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10103], Client Department/Group, Client Department/Group[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 138:
+  ID: customfield_11667
+  Name: Amount
+  Type: number
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Amount, Amount[Number], cf[11667]
+  Schema Type: number
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 139:
+  ID: customfield_11666
+  Name: Investor Name
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11666], Investor Name, Investor Name[Short text]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 140:
+  ID: customfield_11669
+  Name: Good Order Review
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11669], Good Order Review, Good Order Review[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 141:
+  ID: customfield_11668
+  Name: AML/KYC Status
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: AML/KYC Status, AML/KYC Status[Dropdown], cf[11668]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 142:
+  ID: customfield_11661
+  Name: Activity Name - Treasury
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Activity Name - Treasury, Activity Name - Treasury[Dropdown], cf[11661]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 143:
+  ID: customfield_11660
+  Name: Activity Name - Capital Activity
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Activity Name - Capital Activity, Activity Name - Capital Activity[Dropdown], cf[11660]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 144:
+  ID: customfield_11421
+  Name: Checklist Content YAML
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11421], Checklist Content YAML, Checklist Content YAML[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 145:
+  ID: customfield_11662
+  Name: Activity Name - Reporting
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Activity Name - Reporting, Activity Name - Reporting[Dropdown], cf[11662]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 146:
+  ID: customfield_11420
+  Name: Checklist Completed
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11420], Checklist Completed, Checklist Completed[Short text]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 147:
+  ID: customfield_11665
+  Name: Screening Review
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11665], Screening Review, Screening Review[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 148:
+  ID: customfield_11422
+  Name: Checklist Text
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11422], Checklist Text, Checklist Text[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 149:
+  ID: customfield_11664
+  Name: Sentiment
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11664], Sentiment
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: sd-sentiment
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 150:
+  ID: customfield_11656
+  Name: Activity Name - Onboarding
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Activity Name - Onboarding, Activity Name - Onboarding[Dropdown], cf[11656]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 151:
+  ID: customfield_11655
+  Name: Activity Name
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Activity Name, Activity Name[Dropdown], cf[11655]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 152:
+  ID: customfield_11658
+  Name: Activity Name - LP Onboarding
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Activity Name - LP Onboarding, Activity Name - LP Onboarding[Dropdown], cf[11658]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 153:
+  ID: customfield_11657
+  Name: Activity Name - Compliance
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Activity Name - Compliance, Activity Name - Compliance[Dropdown], cf[11657]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 154:
+  ID: customfield_11659
+  Name: Activity Name - Workspace
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Activity Name - Workspace, Activity Name - Workspace[Dropdown], cf[11659]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 155:
+  ID: customfield_11650
+  Name: NA - Preparer Due Date
+  Type: date
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11650], NA - Preparer Due Date, NA - Preparer Due Date[Date]
+  Schema Type: date
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 156:
+  ID: customfield_11651
+  Name: FA Manager
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11651], FA Manager, FA Manager[User Picker (single user)]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 157:
+  ID: customfield_11653
+  Name: FA Director
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11653], FA Director, FA Director[User Picker (single user)]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 158:
+  ID: customfield_11645
+  Name: Reviewer
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11645], Reviewer, Reviewer[User Picker (single user)]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 159:
+  ID: customfield_11644
+  Name: India - Preparer Due Date
+  Type: date
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11644], India - Preparer Due Date, India - Preparer Due Date[Date]
+  Schema Type: date
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 160:
+  ID: customfield_11647
+  Name: Second Reviewer
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11647], Second Reviewer, Second Reviewer[User Picker (single user)]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 161:
+  ID: customfield_11649
+  Name: NA - Preparer
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11649], NA - Preparer, NA - Preparer[User Picker (single user)]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 162:
+  ID: customfield_11641
+  Name: Fund Accounting Team
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11641], Fund Accounting Team, Fund Accounting Team[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 163:
+  ID: customfield_11640
+  Name: Due Date
+  Type: date
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11640], Due Date, Due Date[Date]
+  Schema Type: date
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 164:
+  ID: customfield_11643
+  Name: Preparer
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11643], Preparer, Preparer[User Picker (single user)]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 165:
+  ID: customfield_11642
+  Name: Current Action Owner
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11642], Current Action Owner, Current Action Owner[User Picker (single user)]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 166:
+  ID: customfield_11876
+  Name: Design Status
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11876], Design Status, Design Status[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 167:
+  ID: customfield_11877
+  Name: Designer
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11877], Designer, Designer[User Picker (single user)]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 168:
+  ID: customfield_11638
+  Name: Period - Quarter
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11638], Period - Quarter, Period - Quarter[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 169:
+  ID: customfield_11637
+  Name: Entity Name (DNU)
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11637], Entity Name (DNU), Entity Name (DNU)[Short text]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 170:
+  ID: customfield_11639
+  Name: Period - Year
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11639], Period - Year, Period - Year[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 171:
+  ID: customfield_11630
+  Name: Number of Entities
+  Type: number
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11630], Number of Entities, Number of Entities[Number]
+  Schema Type: number
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 172:
+  ID: customfield_11865
+  Name: Product Area
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11865], Product Area, Product Area[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 173:
+  ID: customfield_12954
+  Name: Due Date Justification
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[12954], Due Date Justification, Due Date Justification[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 174:
+  ID: customfield_11867
+  Name: FA Manager (Global Team)
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11867], FA Manager (Global Team), FA Manager (Global Team)[User Picker (single user)]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 175:
+  ID: customfield_11866
+  Name: LA Date
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11866], LA Date, LA Date[Labels]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: string
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 176:
+  ID: customfield_13340
+  Name: Google Group Email Address
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13340], Google Group Email Address, Google Group Email Address[Short text]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 177:
+  ID: customfield_10074
+  Name: Responders
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: None
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: string
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 178:
+  ID: customfield_10075
+  Name: Size
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10075], Size, Size[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 179:
+  ID: customfield_13344
+  Name: Google Group Visibility Type
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13344], Google Group Visibility Type, Google Group Visibility Type[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 180:
+  ID: customfield_13343
+  Name: Google Group Manager(s)
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13343], Google Group Manager(s), Google Group Manager(s)[User Picker (multiple users)]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: user
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 181:
+  ID: customfield_13346
+  Name: Slack Support Request Type
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13346], Slack Support Request Type, Slack Support Request Type[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 182:
+  ID: customfield_13345
+  Name: Omnissa Support Request Type
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13345], Omnissa Support Request Type, Omnissa Support Request Type[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 183:
+  ID: customfield_13348
+  Name: Slack User Group Handle
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13348], Slack User Group Handle, Slack User Group Handle[Short text]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 184:
+  ID: customfield_13347
+  Name: Name of Slack User Group
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13347], Name of Slack User Group, Name of Slack User Group[Short text]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 185:
+  ID: customfield_13339
+  Name: Google Group Name
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13339], Google Group Name, Google Group Name[Short text]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 186:
+  ID: customfield_13338
+  Name: Google Groups Request Type
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13338], Google Groups Request Type, Google Groups Request Type[Select List (multiple choices)]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: option
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 187:
+  ID: customfield_10060
+  Name: Root cause
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10060], Root cause, Root cause[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 188:
+  ID: customfield_11393
+  Name: Project overview key
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11393], Project overview key
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 189:
+  ID: customfield_10061
+  Name: Workaround
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10061], Workaround, Workaround[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 190:
+  ID: customfield_10062
+  Name: Time to resolution
+  Type: sd-servicelevelagreement
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10062], Time to resolution
+  Schema Type: sd-servicelevelagreement
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 191:
+  ID: customfield_11392
+  Name: BizOps Request Type
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: BizOps Request Type, BizOps Request Type[Dropdown], cf[11392]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 192:
+  ID: customfield_10063
+  Name: Time to first response
+  Type: sd-servicelevelagreement
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10063], Time to first response
+  Schema Type: sd-servicelevelagreement
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 193:
+  ID: customfield_10064
+  Name: Time to close after resolution
+  Type: sd-servicelevelagreement
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10064], Time to close after resolution
+  Schema Type: sd-servicelevelagreement
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 194:
+  ID: customfield_11394
+  Name: Project overview status
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11394], Project overview status
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 195:
+  ID: customfield_10065
+  Name: Time to review normal change
+  Type: sd-servicelevelagreement
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10065], Time to review normal change
+  Schema Type: sd-servicelevelagreement
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 196:
+  ID: customfield_10066
+  Name: Acceptance Criteria
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Acceptance Criteria, Acceptance Criteria[Paragraph], cf[10066]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 197:
+  ID: customfield_13334
+  Name: Access Request Support Type
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Access Request Support Type, Access Request Support Type[Dropdown], cf[13334]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 198:
+  ID: customfield_13337
+  Name: AWS Workspaces Request Type
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: AWS Workspaces Request Type, AWS Workspaces Request Type[Dropdown], cf[13337]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 199:
+  ID: customfield_13336
+  Name: Application Support Types
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Application Support Types, Application Support Types[Dropdown], cf[13336]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 200:
+  ID: customfield_11380
+  Name: Actual Start Date
+  Type: date
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Actual Start Date, Actual Start Date[Date], cf[11380]
+  Schema Type: date
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 201:
+  ID: customfield_10050
+  Name: Affected hardware
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Affected hardware, Affected hardware[Short text], cf[10050]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 202:
+  ID: customfield_11381
+  Name: Actual End Date
+  Type: date
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Actual End Date, Actual End Date[Date], cf[11381]
+  Schema Type: date
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 203:
+  ID: customfield_10051
+  Name: Affected services
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Affected services, cf[10051]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: service-entity-field
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 204:
+  ID: customfield_10052
+  Name: Severity
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10052], Severity, Severity[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 205:
+  ID: customfield_11383
+  Name: Design
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11383], Design
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: design.field.name
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 206:
+  ID: customfield_10053
+  Name: Source
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10053], Source, Source[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 207:
+  ID: customfield_10054
+  Name: Implementation plan
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10054], Implementation plan, Implementation plan[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 208:
+  ID: customfield_10055
+  Name: Backout plan
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Backout plan, Backout plan[Paragraph], cf[10055]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 209:
+  ID: customfield_10056
+  Name: Test plan
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10056], Test plan, Test plan[Paragraph]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 210:
+  ID: customfield_10057
+  Name: Planned start date
+  Type: datetime
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10057], Planned start date, Planned start date[Time stamp]
+  Schema Type: datetime
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 211:
+  ID: customfield_10058
+  Name: Planned end date
+  Type: datetime
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10058], Planned end date, Planned end date[Time stamp]
+  Schema Type: datetime
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 212:
+  ID: customfield_10059
+  Name: Investigation reason
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10059], Investigation reason, Investigation reason[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 213:
+  ID: customfield_10049
+  Name: Operational categorization
+  Type: option-with-child
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10049], Operational categorization, Operational categorization[Select List (cascading)]
+  Schema Type: option-with-child
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 214:
+  ID: customfield_10041
+  Name: Request participants
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10041], Request participants
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: user
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 215:
+  ID: customfield_11372
+  Name: T-Shirt Size
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11372], T-Shirt Size, T-Shirt Size[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 216:
+  ID: customfield_10042
+  Name: Satisfaction
+  Type: sd-feedback
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10042], Satisfaction
+  Schema Type: sd-feedback
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 217:
+  ID: customfield_10043
+  Name: Satisfaction date
+  Type: datetime
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10043], Satisfaction date
+  Schema Type: datetime
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 218:
+  ID: customfield_10044
+  Name: Approvals
+  Type: sd-approvals
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Approvals, Approvals[Approvals], cf[10044]
+  Schema Type: sd-approvals
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 219:
+  ID: customfield_10045
+  Name: Request language
+  Type: sd-request-lang
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10045], Request language
+  Schema Type: sd-request-lang
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 220:
+  ID: customfield_10046
+  Name: Urgency
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10046], Urgency, Urgency[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 221:
+  ID: customfield_10047
+  Name: Pending reason
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10047], Pending reason, Pending reason[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 222:
+  ID: customfield_11378
+  Name: System(s)
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11378], System(s), System(s)[Select List (multiple choices)]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: option
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 223:
+  ID: customfield_10048
+  Name: Product categorization
+  Type: option-with-child
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10048], Product categorization, Product categorization[Select List (cascading)]
+  Schema Type: option-with-child
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 224:
+  ID: customfield_10030
+  Name: Test Environment
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10030], Test Environment, Test Environment[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 225:
+  ID: customfield_10027
+  Name: Work Stream
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10027], Work Stream, Work Stream[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 226:
+  ID: customfield_10028
+  Name: Target start
+  Type: date
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10028], Target start
+  Schema Type: date
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 227:
+  ID: customfield_10029
+  Name: Target end
+  Type: date
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10029], Target end
+  Schema Type: date
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 228:
+  ID: customfield_10020
+  Name: Sprint
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10020], Sprint
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: json
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 229:
+  ID: customfield_10021
+  Name: Flagged
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10021], Flagged, Flagged[Checkboxes]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: option
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 230:
+  ID: customfield_11595
+  Name: Major incident
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[11595], Major incident
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 231:
+  ID: customfield_10022
+  Name: [CHART] Date of First Response
+  Type: datetime
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: [CHART] Date of First Response, [CHART] Date of First Response[Date of first response], cf[10022]
+  Schema Type: datetime
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 232:
+  ID: customfield_10023
+  Name: [CHART] Time in Status
+  Type: any
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: [CHART] Time in Status, [CHART] Time in Status[Time in Status], cf[10023]
+  Schema Type: any
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 233:
+  ID: customfield_10024
+  Name: Story Points
+  Type: number
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10024], Story Points, Story Points[Number]
+  Schema Type: number
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 234:
+  ID: customfield_10016
+  Name: Story point estimate
+  Type: number
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10016], Story point estimate
+  Schema Type: number
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 235:
+  ID: customfield_10017
+  Name: Issue color
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10017], Issue color
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 236:
+  ID: customfield_10018
+  Name: Parent Link
+  Type: any
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10018], Parent Link
+  Schema Type: any
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 237:
+  ID: customfield_10019
+  Name: Rank
+  Type: any
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10019], Rank
+  Schema Type: any
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 238:
+  ID: customfield_10010
+  Name: Request Type
+  Type: sd-customerrequesttype
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10010], Request Type
+  Schema Type: sd-customerrequesttype
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 239:
+  ID: customfield_10011
+  Name: Epic Name
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10011], Epic Name
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 240:
+  ID: customfield_10012
+  Name: Epic Status
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10012], Epic Status
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 241:
+  ID: customfield_10013
+  Name: Epic Color
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10013], Epic Color
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 242:
+  ID: customfield_10014
+  Name: Epic Link
+  Type: any
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10014], Epic Link
+  Schema Type: any
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 243:
+  ID: customfield_10015
+  Name: Start date
+  Type: date
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10015], Start date, Start date[Date]
+  Schema Type: date
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 244:
+  ID: customfield_10005
+  Name: Change type
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10005], Change type, Change type[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 245:
+  ID: customfield_10006
+  Name: Change risk
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10006], Change risk, Change risk[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 246:
+  ID: customfield_10007
+  Name: Change reason
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10007], Change reason, Change reason[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 247:
+  ID: customfield_10008
+  Name: Change start date
+  Type: datetime
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10008], Change start date, Change start date[Time stamp]
+  Schema Type: datetime
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 248:
+  ID: customfield_10009
+  Name: Change completion date
+  Type: datetime
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10009], Change completion date, Change completion date[Time stamp]
+  Schema Type: datetime
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 249:
+  ID: customfield_10000
+  Name: Development
+  Type: any
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10000], development
+  Schema Type: any
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 250:
+  ID: customfield_10001
+  Name: Team
+  Type: team
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10001], Team, Team[Team]
+  Schema Type: team
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 251:
+  ID: customfield_10002
+  Name: Organizations
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10002], Organizations
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: sd-customerorganization
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 252:
+  ID: customfield_10003
+  Name: Approvers
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Approvers, Approvers[User Picker (multiple users)], cf[10003]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: user
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 253:
+  ID: customfield_10004
+  Name: Impact
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10004], Impact, Impact[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 254:
+  ID: customfield_13388
+  Name: Application Integration Type
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Application Integration Type, Application Integration Type[Select List (multiple choices)], cf[13388]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: option
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 255:
+  ID: customfield_13360
+  Name: General Network Request Type
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13360], General Network Request Type, General Network Request Type[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 256:
+  ID: customfield_13120
+  Name: FAO Secondary
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13120], FAO Secondary, FAO Secondary[User Picker (single user)]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 257:
+  ID: customfield_13362
+  Name: SF Office Network Issue Type
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13362], SF Office Network Issue Type, SF Office Network Issue Type[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 258:
+  ID: customfield_13361
+  Name: Netskope Support Request Type
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13361], Netskope Support Request Type, Netskope Support Request Type[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 259:
+  ID: customfield_13119
+  Name: Capital Events Primary
+  Type: user
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Capital Events Primary, Capital Events Primary[User Picker (single user)], cf[13119]
+  Schema Type: user
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 260:
+  ID: customfield_10080
+  Name: PM
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10080], PM, PM[User Picker (multiple users)]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: user
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 261:
+  ID: customfield_10081
+  Name: Designer (old, do not use)
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10081], Designer (old, do not use), Designer (old, do not use)[User Picker (multiple users)]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: user
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 262:
+  ID: customfield_10082
+  Name: Work category
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10082], Work category
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 263:
+  ID: customfield_10083
+  Name: Approver groups
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: Approver groups, Approver groups[Group Picker (multiple groups)], cf[10083]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: group
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 264:
+  ID: customfield_13350
+  Name: Slack Connect Channel Name
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13350], Slack Connect Channel Name, Slack Connect Channel Name[Short text]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 265:
+  ID: customfield_10085
+  Name: Design Review
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[10085], Design Review, Design Review[Radio Buttons]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 266:
+  ID: customfield_13353
+  Name: Slack Connect Invitation Receiver (email address)
+  Type: string
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13353], Slack Connect Invitation Receiver (email address), Slack Connect Invitation Receiver (email address)[Short text]
+  Schema Type: string
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 267:
+  ID: customfield_13352
+  Name: Slack Connect Channel Type
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13352], Slack Connect Channel Type, Slack Connect Channel Type[Select List (multiple choices)]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: option
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 268:
+  ID: customfield_13355
+  Name: Office Location
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13355], Office Location, Office Location[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 269:
+  ID: customfield_13356
+  Name: Event Support Request Type
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13356], Event Support Request Type, Event Support Request Type[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 270:
+  ID: customfield_13359
+  Name: Computer Issue Request Type
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13359], Computer Issue Request Type, Computer Issue Request Type[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 271:
+  ID: customfield_13358
+  Name: Peripheral Request Type
+  Type: option
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13358], Peripheral Request Type, Peripheral Request Type[Dropdown]
+  Schema Type: option
+  Schema System: N/A
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+Custom Field 272:
+  ID: customfield_13349
+  Name: Slack User Group Members
+  Type: array
+  System: Unknown
+  Searchable: True
+  Orderable: True
+  Navigable: True
+  Clause Names: cf[13349], Slack User Group Members, Slack User Group Members[User Picker (multiple users)]
+  Schema Type: array
+  Schema System: N/A
+  Schema Items: user
+  Project: Data Eng (DE)
+
+----------------------------------------
+
+
+SUMMARY
+====================
+
+Custom fields grouped by type:
+
+option (80 fields):
+  - Reporting Cadence
+  - Sub Doc Source
+  - GitHub Access Required?
+  - Reduced Commitment Enabled
+  - Multiple Investor Groups
+  - Investor Services Team
+  - MoSCoW Priority
+  - Security Incident Type
+  - AML/KYC Program
+  - RevOps Category
+  - Activity Name - Capital Events
+  - Product SKU
+  - Scoping Role
+  - Value Proposition
+  - Reason for Change
+  - Customer Impacted
+  - Customer Notification Required
+  - Risk of Change
+  - Manager Approved?
+  - Idea archived
+  - Timeline Target
+  - Blocked Reason
+  - BizOps Function
+  - Investment Type
+  - Category
+  - AWS Access Required?
+  - Review Status
+  - Run Pipeline Automation?
+  - Scope of Change
+  - Notify FAO for Positions
+  - Schedule Risk
+  - Activity Name - Subscriptions
+  - Initiative stage
+  - Investor Risk Rating
+  - Client Department/Group
+  - Good Order Review
+  - AML/KYC Status
+  - Activity Name - Treasury
+  - Activity Name - Capital Activity
+  - Activity Name - Reporting
+  - Screening Review
+  - Activity Name - Onboarding
+  - Activity Name
+  - Activity Name - LP Onboarding
+  - Activity Name - Compliance
+  - Activity Name - Workspace
+  - Fund Accounting Team
+  - Design Status
+  - Period - Quarter
+  - Period - Year
+  - Product Area
+  - Size
+  - Google Group Visibility Type
+  - Slack Support Request Type
+  - Omnissa Support Request Type
+  - BizOps Request Type
+  - Access Request Support Type
+  - AWS Workspaces Request Type
+  - Application Support Types
+  - Severity
+  - Source
+  - Investigation reason
+  - T-Shirt Size
+  - Urgency
+  - Pending reason
+  - Test Environment
+  - Work Stream
+  - Epic Status
+  - Change type
+  - Change risk
+  - Change reason
+  - Impact
+  - General Network Request Type
+  - SF Office Network Issue Type
+  - Netskope Support Request Type
+  - Design Review
+  - Office Location
+  - Event Support Request Type
+  - Computer Issue Request Type
+  - Peripheral Request Type
+
+number (19 fields):
+  - Fund Admin Id
+  - JSQ Customer Id
+  - SLA
+  - Number of Positions
+  - ROI (Hours)
+  - Waiting for Reporter Counter
+  - Insights
+  - Linked issues
+  - Comments
+  - Submitted forms
+  - Locked forms
+  - Checklist Progress %
+  - Total forms
+  - # Child Issues
+  - Open forms
+  - Amount
+  - Number of Entities
+  - Story Points
+  - Story point estimate
+
+string (76 fields):
+  - Plan
+  - Analysis
+  - Policy objectives
+  - External Key
+  - If Yes, What Repositories?
+  - Expected Result
+  - Steps to Reproduce
+  - Actual Result
+  - Entity Name
+  - Box Folder Link
+  - Delivery status
+  - Release Notes
+  - Manual Deployment Steps
+  - Customer Impact Details
+  - Implementation Plan
+  - Service Dependencies/Integration testing results
+  - Release Note
+  - Verification Plan/Change resulted in expected outcome
+  - Monitoring/Logging/Alerting Tools
+  - Post Change Validation / Testing Procedures
+  - Atlassian project
+  - Country Traveling To
+  - Atlassian project status
+  - Delivery progress
+  - Status Headline
+  - Original Requirements
+  - Blocked Reason Description
+  - Checklist Text (view-only)
+  - Network Integration Points
+  - Data Stored or Processed
+  - Encryption in Transit/At Rest
+  - Access Method
+  - SSO/2FA Supported
+  - Authentication Method
+  - Offboarding Process
+  - What AWS Resources Will Be Accessed?
+  - If Yes, What AWS Account/Environment?
+  - Team Requesting
+  - Tool/Platform Description
+  - Purpose of Integration / Tool
+  - Data Types Involved
+  - Technical Notes
+  - External Reference
+  - Rollback Plan
+  - Notification Plan
+  - Template Approved
+  - Canopy ID
+  - Weekly Update
+  - Checklist Progress
+  - External Comments
+  - Investor Name
+  - Checklist Content YAML
+  - Checklist Completed
+  - Checklist Text
+  - Entity Name (DNU)
+  - Due Date Justification
+  - Google Group Email Address
+  - Slack User Group Handle
+  - Name of Slack User Group
+  - Google Group Name
+  - Root cause
+  - Project overview key
+  - Workaround
+  - Project overview status
+  - Acceptance Criteria
+  - Affected hardware
+  - Implementation plan
+  - Backout plan
+  - Test plan
+  - Major incident
+  - Issue color
+  - Epic Name
+  - Epic Color
+  - Work category
+  - Slack Connect Channel Name
+  - Slack Connect Invitation Receiver (email address)
+
+array (35 fields):
+  - Pipeline Environment(s)
+  - Departments
+  - Data Classification
+  - Roadmap
+  - GA date
+  - Customers
+  - Region
+  - Idea archived by
+  - Testers
+  - Key Stakeholders
+  - Business Unit
+  - Cloud Customer Name
+  - JFA / JAD Status
+  - India - Preparer
+  - NA - Preparer
+  - Goals
+  - Sentiment
+  - LA Date
+  - Responders
+  - Google Group Manager(s)
+  - Google Groups Request Type
+  - Affected services
+  - Design
+  - Request participants
+  - System(s)
+  - Sprint
+  - Flagged
+  - Organizations
+  - Approvers
+  - Application Integration Type
+  - PM
+  - Designer (old, do not use)
+  - Approver groups
+  - Slack Connect Channel Type
+  - Slack User Group Members
+
+option-with-child (3 fields):
+  - Metadata Type
+  - Operational categorization
+  - Product categorization
+
+date (13 fields):
+  - Commitment Date
+  - Travel Start Date
+  - Travel End Date
+  - Due date for contribution reconciliation
+  - Blocked Date
+  - NA - Preparer Due Date
+  - India - Preparer Due Date
+  - Due Date
+  - Actual Start Date
+  - Actual End Date
+  - Target start
+  - Target end
+  - Start date
+
+user (21 fields):
+  - Incident Manager
+  - Technician
+  - Peer Reviewer
+  - Direct Manager Name
+  - Project Manager
+  - Business Lead
+  - Technical Lead
+  - Executive Sponsor
+  - Requester Name
+  - Security Reviewer(s)
+  - FA Manager
+  - FA Director
+  - Reviewer
+  - Second Reviewer
+  - NA - Preparer
+  - Preparer
+  - Current Action Owner
+  - Designer
+  - FA Manager (Global Team)
+  - FAO Secondary
+  - Capital Events Primary
+
+datetime (9 fields):
+  - Scheduled Finish
+  - Scheduled Start
+  - Idea archived on
+  - Planned start date
+  - Planned end date
+  - Satisfaction date
+  - [CHART] Date of First Response
+  - Change start date
+  - Change completion date
+
+option2 (1 fields):
+  - Checklist Template
+
+sd-servicelevelagreement (5 fields):
+  - Time to done
+  - Time to resolution
+  - Time to first response
+  - Time to close after resolution
+  - Time to review normal change
+
+sd-feedback (1 fields):
+  - Satisfaction
+
+sd-approvals (1 fields):
+  - Approvals
+
+sd-request-lang (1 fields):
+  - Request language
+
+any (5 fields):
+  - [CHART] Time in Status
+  - Parent Link
+  - Rank
+  - Epic Link
+  - Development
+
+sd-customerrequesttype (1 fields):
+  - Request Type
+
+team (1 fields):
+  - Team
+
+Searchability:
+  - Searchable: 272 fields
+  - Non-searchable: 0 fields
+
+JQL Usage:
+  - Fields usable in JQL: 271 fields
+  - Example JQL clauses:
+    * Reporting Cadence: cf[11710]
+    * Fund Admin Id: cf[11708]
+    * JSQ Customer Id: cf[11707]
+    * SLA: cf[11709]
+    * Plan: cf[11933]
